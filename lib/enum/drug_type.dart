@@ -1,0 +1,1 @@
+enum DrugType { medical, otc }
